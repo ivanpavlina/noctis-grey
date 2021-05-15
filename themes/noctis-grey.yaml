@@ -1,4 +1,4 @@
-noctis-grey:
+noctis-grey-no-background:
   # Fonts
   primary-font-family: 'Raleway,sans-serif'
   paper-font-common-base_-_font-family: 'var(--primary-font-family)'
